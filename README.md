@@ -28,7 +28,8 @@
 
   ## DEMO
 
-  
+  [Home.webm](https://github.com/RanilSD/techie_blog_v8/assets/139150974/4ca7085e-9c72-492f-a4fe-7b370553120d)
+
 
   ## Contributing
   make it more appealing to the eye, add tests
